@@ -1,7 +1,6 @@
 ## WELCOME TO IFILM'S GITHUB ACCOUNT 👋
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ifilmsbotz/&title=Profile%20Views)
-
+[![Profile views](https://komarev.com/ghpvc/?username=ifilmsbotz&label=Profile%20views)](https://github.com/ifilmsbotz)
 ---
 
 ## MY STATS
