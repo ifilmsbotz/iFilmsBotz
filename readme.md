@@ -1,8 +1,5 @@
 ## WELCOME TO IFILM'S GITHUB ACCOUNT 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=ifilmsbotz&label=Profile%20views)](https://github.com/ifilmsbotz)
----
-
 ## MY STATS
 
 ![iFilmsBotz's Stats](https://github-readme-stats.vercel.app/api?username=ifilmsbotz&show_icons=true&count_private=false&theme=dark)
