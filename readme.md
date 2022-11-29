@@ -25,4 +25,4 @@
 
 - 🌱 I’m Currently Learning Python.
 
-- 📫 How To Reach Me: [@iFilms_Owner](https://telegram.dog/iFilms_Owner) (TG)
+- 📫 How To Reach Me: (Not Possible)
