@@ -16,8 +16,8 @@
 
 ## DO YOU KNOW ME?
 
-- 🔭 I’m Currently Working On Telegram Botz.
+- 🔭 I’m Currently Working On Tele Bots.
 
 - 🌱 I’m Currently Learning Python.
 
-- 📫 How To Reach Me: (Not Possible)
+- 📫 How To Reach Me: t.me/iFilms_Studios
